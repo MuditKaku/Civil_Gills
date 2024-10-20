@@ -1,0 +1,321 @@
+
+.navtop{
+	width:100%;
+	background-color:#fff;
+   
+}
+.slogan{
+   font-size:20px;
+   background-color:#fff;
+   float:right;
+   margin-right:115px;
+   margin-top:10px;
+   font-size:37px;
+   font-family:"Lucida Console", Courier, monospace;
+   }
+   
+.loginbtn{
+   background-color:black;
+   border-radius:25px;
+   float:right;
+   margin-top:40px;
+   margin-right:20px;
+   }
+.loginbtn:hover{
+	text-decoration:none;
+	color:white;
+	transition:all 0.5s;
+	background-color:#0066CC;
+}
+   
+.logosize{
+	width:25%;
+	height:20%;
+}
+
+.nav{
+	background-color:#000;
+	padding-top:10px;
+	padding-bottom:10px;
+	width:100%;	
+}
+.navitems{
+	font-size:17px;
+	padding-left:45px;
+	padding-top:1px;
+	
+}
+.nav1:hover{
+	background-color:#0066CC;
+	text-decoration:none;
+	position:relative;
+	transition:all 1s ;
+	color:#fff;
+
+}
+.nav2:hover{
+	background-color:#0066CC;
+	text-decoration:none;
+	position:relative;
+	transition:all 1s ;
+	color:#fff;
+	border-radius: 30px;
+}
+.nav3:hover{
+	background-color:#0066CC;
+	text-decoration:none;
+	position:relative;
+	transition:all 1s ;
+	color:#fff;
+	border-radius: 30px;
+}
+.nav4:hover{
+	background-color:#0066CC;
+	text-decoration:none;
+	position:relative;
+	transition:all 1s ;
+	color:#fff;
+	border-radius: 30px;
+}
+.nav5:hover{
+	background-color:#0066CC;
+	text-decoration:none;
+	position:relative;
+	transition:all 1s ;
+	color:#fff;
+	border-radius: 30px;
+}
+.nav6:hover{
+	background-color:#0066CC;
+	text-decoration:none;
+	position:relative;
+	transition:all 1s ;
+	color:#fff;
+	border-radius: 30px;
+}
+.nav7:hover{
+	background-color:#0066CC;
+	text-decoration:none;
+	position:relative;
+	transition:all 1s ;
+	color:#fff;
+	border-radius: 30px;
+}
+.marquee{
+	font-size:25px;
+	color:red;
+	background-color:#D5DBDB ;
+	float:right;
+	width:80%;
+	float:left;
+}
+.trendingnow{
+	background-color:#0066CC;
+	width:20%;
+	float:left;
+	height:28;
+	color:white;
+	font-size:25px;
+	text-align:center;
+	padding-bottom:37px;
+	
+}
+
+.headline {
+	width:100%;
+}
+.bg{
+	background-image:url(classroom2.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.profilebox{
+	background-color:black;
+	width:25%;
+	height:60%;
+	margin-left:500px;
+	margin-top:100px;
+	position:absolute;
+	color:#fff;
+	font-family:sans-serif;
+	padding-top:60px;
+	padding-left:40px;
+	padding-right:40px;
+	font-size:15;
+	border-radius:20px
+}
+.avatar{
+    border-radius:50%;
+	position:absolute;
+	top:-50px;
+	margin-left:140px;
+}
+
+.username{
+	 background:transparent;
+	 border:none;
+	 color:white;
+	 margin:0px;
+	 padding:0px;
+	 outline:none;
+	 font-size:15px;
+}
+
+.password{
+    background:transparent;
+	border:none;
+	color:white;
+	margin:0px;
+	padding:0px;
+	outline:none;
+	font-size:15px;
+}
+.login{
+	width:100%;
+	border:none;
+	outline:none;
+	height:40px;
+	background-color:#0066CC;
+	color:#fff;
+	border-radius:10px;
+}
+
+ .icons{
+    display:flex;
+	flex-direction:column;
+	width:230px;
+	top:34%;
+	right:0px;
+    position:fixed;
+}
+.facebook{
+	text-decoration:none;
+	font-size:22px;
+	font-family:"Lucida Console", Courier, monospace ;
+	padding:10px;
+	background-color:#2C80D3;
+	color:white;
+	margin:1px;
+	text-align:left;
+	border-radius:50px 0px 0px 50px;
+	transform: translate(165px,0px);
+	transition:all 0.5s;
+}
+.facebook:hover{
+	color:white;
+	text-decoration:none;
+	
+	
+}
+.instagram{
+	text-decoration:none;
+	font-size:22px;
+	font-family:"Lucida Console", Courier, monospace ;
+	padding:10px;
+	color:white;
+	background-image: linear-gradient(135deg ,#4f5bd5, #962fbf, #d62976 , #fa7e1e, #feda75 );
+	margin:1px;
+	text-align:left;
+	border-radius:50px 0px 0px 50px;
+	transform: translate(165px,0px);
+	transition:all 0.5s;
+}
+.instagram:hover{
+	color:white;
+	text-decoration:none;
+	
+}
+.twitter{
+	text-decoration:none;
+	font-size:22px;
+	font-family:"Lucida Console", Courier, monospace;
+	padding:10px;
+	background-color:#53c5ff;
+	color:white;
+	margin:1px;
+	text-align:left;
+	border-radius:50px 0px 0px 50px;
+	transform: translate(165px,0px);
+	transition:all  0.5s;
+}
+.twitter:hover{
+	color:white;
+	text-decoration:none;
+	
+}
+.youtube{
+	text-decoration:none;
+	font-size:22px;
+	font-family:"Lucida Console", Courier, monospace;
+	padding:10px;
+	background-color:#fa0910;
+	color:white;
+	margin:1px;
+	text-align:left;
+	border-radius:50px 0px 0px 50px;
+	transform: translate(165px,0px);
+	transition:all  0.5s;
+}
+.youtube:hover{
+	color:white;
+	text-decoration:none;
+	
+}
+.icons i {
+	margin-right:20px;
+	background-color:white;
+	height:40px;
+	width:40px;
+	text-align:center;
+	line-height:40px;
+	border-radius:50%;
+	
+}
+.icons i:hover{
+	transform:rotate(360deg);
+	transition:1s all;
+}
+ .fa-facebook-f{
+	color:#2C80D3;
+ }
+ .fa-instagram{
+	color:#E1306C;
+ }
+.fa-twitter{
+	color:#53c5ff;
+ }
+ .fa-youtube{
+	color:#fa0910;
+ }
+ .youtube:hover{
+	 transform: translate(0px,0px);
+ }
+ .facebook:hover{
+	 transform: translate(0px,0px);
+ }
+ .twitter:hover{
+	 transform: translate(0px,0px);
+ }
+ .instagram:hover{
+	 transform: translate(0px,0px);
+ }
+ .loginbtn2{
+	  background-color:#0066CC;
+	  border-radius:25px;
+	  color:white
+  
+ }
+.loginbtn2:hover{
+	  background-color:white;
+      border-radius:25px;
+	  text-decoration:none;
+	  color:#0066CC;
+	  transition:0.5s;
+ }
+ .cards{
+	 display : flex;
+	 flex-direction : row;
+	 align-items : center;
+	 justify-content : space-around;
+ }
+	 
